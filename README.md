@@ -11,7 +11,7 @@
 
 ### 🎵 الملفات الصوتية 
 
-📥 **تحميل الصوتيات:** [OneDrive Link](https://1drv.ms/f/c/a382088514f739c6/Esbkhc4hDDNHqLPv16_LL6kB1QErGY3E4xfk6vQ-YOJa-w?e=SbPgG2)
+📥 **تحميل الصوتيات:** [SharePoint Link](https://aiplacez-my.sharepoint.com/:f:/g/personal/radhyah_saudiaip_com/EkrtY3Ck8X5GmMAu_GTQZH0BtyouOHhQpmhfEiU1LH9BNA?e=oc2iwM)
 
 - **`downloaded_audio/`** - التسجيلات الصوتية الأصلية من YouTube (29 ملف)
 - **`clean_audio/`** - التسجيلات الصوتية المُنظفة والمُحسنة (29 ملف)
